@@ -1,0 +1,7 @@
+{
+  "name": "rstest-broadcastchannel-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "rstest run" },
+  "devDependencies": { "@rstest/core": "^0.12.5", "jsdom": "^30.1.3" }
+}
